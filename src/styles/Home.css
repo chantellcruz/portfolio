@@ -1,0 +1,16 @@
+.homepage-bgimage {
+    background: url("../assets/dev-banner.jpg");
+    height: 60vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    background-color: #000000;
+  }
+
+  h1 {
+    font-size: 80px;
+    font-family: commuters-sans, sans-serif;
+    font-weight: 100;
+    text-transform: uppercase;
+  }
